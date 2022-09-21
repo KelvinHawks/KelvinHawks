@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvinHawks.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Html, css and javascript.
+- 🌱 I’m currently learning Html, css, javascript, C++ and SQL.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me kevohkyme@gmail.com / +254 797035367.
 
