@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KelvinHawks.
+- 👋 Hi, I am @KelvinHawks.
 - 👀 I am a developer.
 - 🌱 Html, css, javascript, C++ and SQL. I am also an Amerix student.
 - 💞️ I’m looking to collaborate on web development.
