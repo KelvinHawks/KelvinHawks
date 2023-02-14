@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KelvinHawks.
-- 👀 I’m a developer.
-- 🌱 I’m currently learning Html, css, javascript, C++ and SQL. I am also an Amerix student.
+- 👀 I am a developer.
+- 🌱 Html, css, javascript, C++ and SQL. I am also an Amerix student.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me kimdev79@gmail.com / +254 797035367.
+- 📫 How to reach me kimdev79@gmail.com.
 
 <!---
 KelvinHawks/KelvinHawks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
