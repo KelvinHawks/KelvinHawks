@@ -1,6 +1,6 @@
 - 👋 Hi, I am @KelvinHawks.
 - 👀 I am a developer.
-- 🌱 Html, css, javascript, C++ and SQL. I am also an Amerix student.
+- 🌱 Html, css, javascript, C++, php, MySQL. I am also an Amerix student.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me kimdev79@gmail.com.
 
