@@ -1,6 +1,6 @@
 - 👋 Hi, I am @KelvinHawks.
 - 👀 I am a developer.
-- 🌱 Html, css, JavaScript, React, Node js and Mongo DB.
+- 🌱 Html, css, JavaScript, React, Node js, Python and Mongo DB.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me kimdev79@gmail.com.
 
