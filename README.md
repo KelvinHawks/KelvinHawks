@@ -1,6 +1,6 @@
 - 👋 Hi, I am @KelvinHawks.
 - 👀 I am a Software Developer.
-- 🌱 Html, css, JavaScript, React, Node js, Express, C#, XAML, .NET, MySQL, Python, Django and Mongo DB.
+- 🌱 Html, css, JavaScript, TypeScript, React, Node js, Express, C#, XAML, .NET, MySQL, Python, Django and Mongo DB.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me kimdev79@gmail.com.
 
